@@ -1,5 +1,5 @@
 # Visual Studio Code and GitHub integration
-Step by step instruction on how to use Visual Studio Code to create, clone or edit GitHub repositories.
+Step-by-step instructions on how to use Visual Studio Code to create, clone or edit GitHub repositories.
 
 # Pre-requisites
 On your own computer, you need to have the following installed:
